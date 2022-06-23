@@ -1,5 +1,5 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/originals/3f/f6/07/3ff6076e3039e1ab76aa623343c79544.gif alt="hecker" />
+  <img src="https://i.pinimg.com/originals/3f/f6/07/3ff6076e3039e1ab76aa623343c79544.gif" alt="hecker" />
 </h1>
 
 <a href="hecker-stats">
