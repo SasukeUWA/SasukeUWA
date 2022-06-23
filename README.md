@@ -1,10 +1,8 @@
 <h1 align="center">
-  <img src="https://i.pinimg.com/originals/3f/f6/07/3ff6076e3039e1ab76aa623343c79544.gif" alt="hecker" />
+  <img src="https://i.pinimg.com/originals/3f/f6/07/3ff6076e3039e1ab76aa623343c79544.gif" alt="sasuke" />
 </h1>
 
-<a href="hecker-stats">
-  <img src="https://raw.githubusercontent.com/heckair/heckair/7f11007db91f950c4a63bf1c7464409e6cdba1f2/stats.svg" alt="macropower" align="right" />
-</a>
+
 <h3 align="left">🐞 I can work with :</h3>
 
 
